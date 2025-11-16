@@ -1,0 +1,16 @@
+# Dependencias de Node (si se utiliza npm/yarn para scripts o herramientas de compilación)
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# Logs y Archivos temporales
+*.log
+
+# Archivos de caché del OS y Editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignorar archivos de construcción (si se añaden más tarde)
+/dist
+/build
